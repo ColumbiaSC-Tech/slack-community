@@ -1,8 +1,4 @@
-Welcome to ColumbiaSC-Tech Slack Community!
-
-We're so glad to have you!
-
-Please come to the #general channel and introduce yourself to the community (no pressure)!
+Welcome to ColumbiaSC-Tech Slack Community! We're so glad you joined!
 
 Please familiarize yourself with our basic community standards below, or see the full version at [TODO: Link to github/slack-community COC].
 
@@ -51,5 +47,7 @@ In the spirit of organization we have several specific channels available for mo
 ~ #open-source: Open Source Software Discussions
 
 ~ #watercooler: A place for non-professional-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
+
+Now that your familiar with our community standards and channels, please come to the #general channel and introduce yourself to the community (no pressure)!
 
 Thanks again for joining, and we look forward to meeting you!
