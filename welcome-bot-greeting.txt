@@ -1,0 +1,55 @@
+Welcome to ColumbiaSC-Tech Slack Community!
+
+We're so glad to have you!
+
+Please come to the #general channel and introduce yourself to the community (no pressure)!
+
+Please familiarize yourself with our basic community standards below, or see the full version at [TODO: Link to github/slack-community COC].
+
+*Our Standards*
+
+Examples of behavior that contributes to creating a positive environment
+include:
+
+• Using welcoming and inclusive language
+• Being respectful of differing viewpoints and experiences
+• Gracefully accepting constructive criticism
+• Focusing on what is best for the community
+• Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+
+• The use of sexualized language or imagery and unwelcome sexual attention or
+advances
+• Trolling, insulting/derogatory comments, and personal or political attacks
+• Public or private harassment
+• Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+• Other conduct which could reasonably be considered inappropriate in a
+  professional setting
+
+In the spirit of organization we have several specific channels available for more focused topics. Here's a list of our current channels and their purposes (although this may change).
+
+*Channels*
+
+~ #announcements: Upcoming events & meetups in the Columbia area
+
+~ #design-ux: Ask for help/critique or showoff some solid work
+
+~ #fp: Discussion of Functional languages like Clojure, Elixir, Scala, Node etc.
+
+~ #front-end: Discussion of front-end technologies, like JavaScript, React, Electron, Arachne etc.
+
+~ #general: For team-wide communication and announcements. All team members are in this channel.
+
+~ #git-fu: Discussion, questions and learnings about Git and Github.
+
+~ #jobs: Discussion about tech jobs and companies in the Columbia area
+
+~ #lightning-talks: Discussion about upcoming "lightning-talks" happening through screen share on appear.in/colatech
+
+~ #open-source: Open Source Software Discussions
+
+~ #watercooler: A place for non-professional-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
+
+Thanks again for joining, and we look forward to meeting you!
