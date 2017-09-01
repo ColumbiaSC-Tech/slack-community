@@ -1,6 +1,6 @@
 Welcome to ColumbiaSC-Tech Slack Community! We're so glad you joined!
 
-Please familiarize yourself with our basic community standards below, or see the full version at [TODO: Link to github/slack-community COC].
+Please familiarize yourself with our basic community standards below, or see the full version at https://github.com/ColumbiaSC-Tech/slack-community/blob/master/code-of-conduct.md .
 
 *Our Standards*
 
