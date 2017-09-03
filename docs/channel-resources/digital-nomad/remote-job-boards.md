@@ -1,14 +1,18 @@
 # Online Resources For Remote Work
+***
 
 Please feel free to add, remove and edit this list as necessary. Communities go defunct, and new ones pop up all the time. This resource is best if kept up to date!
 
 In general more niche and community related job boards will be the best bet for remote work. They tend to be the freshest jobs (instead of pages of garbage scraped now defunct listings) and also are more likely to offer remote opportunities. With that said, not all of these are remote specific, but again, still good resources to find remote work.
 
 One final note, I cannot guarantee these are all completely free to peruse, and if they are, I cannot guarantee they stay that way.
-
+***
 ## General Tech
 [StackOverflow](https://stackoverflow.com/jobs):
 Actually a pretty good resource, probably helps to have an active SO account as well ;)
+
+[AngelList](https://angel.co/):
+Startup centric tech job listings.
 
 [Dice.com](https://dice.com):
 Dice is a good general resource and specializes in the tech industry specifically.
@@ -22,6 +26,12 @@ All sorts of remote jobs in tech and other industries.
 
 [We Work Remotely](https://weworkremotely.com/):
 Same as RemoteOk for the most part.
+
+[Working Nomads](https://www.workingnomads.co):
+Good amount of tech related remote work listings.
+
+[Flex Jobs](https://www.flexjobs.com):
+Not as much tech as I'd like last I checked, but still an option with possibilities.
 
 ## Python
 
@@ -40,3 +50,17 @@ Job board for the Python Django web framework.
 What it sounds like :P but doesn't seem to get a whole lot of action.
 
 ## Javascript
+
+[AngularJobs.io](https://angularjobs.io):
+Angular framework specific jobs.
+
+[AngularJobs.com](https://angularjobs.com):
+You guessed it... same as above basically.
+
+[WE LOVE ANGULAR](https://www.weloveangular.com/):
+A little nicer with more of a community focus.
+
+[React <Jobs/>](https://www.react-jobs.com):
+ReactJS focused job board.
+
+TODO: Add more job boards!
