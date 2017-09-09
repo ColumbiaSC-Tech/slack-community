@@ -24,30 +24,35 @@ advances
 • Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-In the spirit of organization we have several specific channels available for more focused topics. Here's a list of our current channels and their purposes (although this may change).
+In the spirit of organization we have several specific channels available for more focused conversations. 
+Here's a list of our current channels and their purposes (subject to change) as well as some additional resources.
 
-*Channels*
+*Slack Channels*
 
 ~ #announcements: Upcoming events & meetups in the Columbia area
 
+~ #bitcoin-tech: Covering crypto-currencies, blockchain and smart-contract technologies
+
 ~ #design-ux: Ask for help/critique or showoff some solid work
+
+~ #digital-nomad: Any and all things related to working freelance/remotely.
 
 ~ #fp: Discussion of Functional languages like Clojure, Elixir, Scala, Node etc.
 
 ~ #front-end: Discussion of front-end technologies, like JavaScript, React, Electron, Arachne etc.
 
-~ #general: For team-wide communication and announcements. All team members are in this channel.
-
 ~ #git-fu: Discussion, questions and learnings about Git and Github.
 
 ~ #jobs: Discussion about tech jobs and companies in the Columbia area
 
-~ #lightning-talks: Discussion about upcoming "lightning-talks" happening through screen share on appear.in/colatech
+~ #watercooler: This channel is for team-wide communication and announcements. All team members are in this channel.
 
-~ #open-source: Open Source Software Discussions
+*Other Resources*
 
-~ #watercooler: A place for non-professional-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
+~ Landing Page: ColumbiaSC-Tech.github.io
 
-Now that your familiar with our community standards and channels, please come to the #introductions channel and introduce yourself to the community, then jump in the conversation at #general or any one of our other topic-oreinted channels!
+~ Slack Archive: ColumbiaSC-Tech.slackarchive.io
+
+Now that your familiar with our community, standards and channels, please drop by the #introductions channel and introduce yourself to the community, then jump in the conversation at #watercooler or any one of our other channels!
 
 Thanks again for joining, and we look forward to meeting you!
