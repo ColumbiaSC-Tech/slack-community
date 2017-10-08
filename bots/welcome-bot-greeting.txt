@@ -33,17 +33,25 @@ Here's a list of our current channels and their purposes (subject to change) as 
 
 ~ #bitcoin-tech: Covering crypto-currencies, blockchain and smart-contract technologies
 
-~ #design-ux: Ask for help/critique or showoff some solid work
+~ #bot-qa: For testing our bots. If you find an error please pin it with a brief report of the bug.
+
+~ #coding-general: Covering all programming languages and back-end programming topics, include Object-Oriented Programming, Functional Programming etc. Front-end programming topics should go to #frontend-ux.
 
 ~ #digital-nomad: Any and all things related to working freelance/remotely.
 
-~ #fp: Discussion of Functional languages like Clojure, Elixir, Scala, Node etc.
+~ #frontend-ux: Covering all things front-end, including Design/UX, Web and GUI programming topics and frameworks, like JavaScript, React, Vue, Electron, Arachne etc. Showing and requesting feedback on UI design is also welcome here.
 
-~ #front-end: Discussion of front-end technologies, like JavaScript, React, Electron, Arachne etc.
+~ #health-fitness: This channel is focused around issues of health, fitness, vitality and office-ergonomics.
 
-~ #git-fu: Discussion, questions and learnings about Git and Github.
+~ #info-sec: For discussion of best practices, current events, tools, and other topics in information security
+
+~ #introductions: Introduce yourself!
 
 ~ #jobs: Discussion about tech jobs and companies in the Columbia area
+
+~ #our-community: Discussions about things we can do to make our Slack and Cola tech community better. Apps, integrations, bots, lightning-talks, channels, IRL programs/meetups etc.
+
+~ #tools-platforms: Discussion of all tools and platforms used to construct software, from git and github, CI/CD, devops tools and Cloud Platforms, including AWS and Azure.
 
 ~ #watercooler: This channel is for team-wide communication and announcements. All team members are in this channel.
 
@@ -53,6 +61,6 @@ Here's a list of our current channels and their purposes (subject to change) as 
 
 ~ Slack Archive: ColumbiaSC-Tech.slackarchive.io
 
-Now that your familiar with our community, standards and channels, please drop by the #introductions channel and introduce yourself to the community, then jump in the conversation at #watercooler or any one of our other channels!
+Now that you're familiar with our community, standards and channels, please drop by the #introductions channel and introduce yourself to the community, then jump in the conversation at #watercooler or any one of our other channels!
 
 Thanks again for joining, and we look forward to meeting you!
