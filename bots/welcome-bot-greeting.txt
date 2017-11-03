@@ -49,6 +49,10 @@ Here's a list of our current channels and their purposes (subject to change) as 
 
 ~ #jobs: Discussion about tech jobs and companies in the Columbia area
 
+~ #meetup-clojure: For the Columbia SC Clojure Co-Lab MeetUp group and any other related Clojure discussions.
+
+~ #meetup-python: For the Columbia SC Python User Group MeetUp and any other Python related discussions.
+
 ~ #our-community: Discussions about things we can do to make our Slack and Cola tech community better. Apps, integrations, bots, lightning-talks, channels, IRL programs/meetups etc.
 
 ~ #tools-platforms: Discussion of all tools and platforms used to construct software, from git and github, CI/CD, devops tools and Cloud Platforms, including AWS and Azure.
